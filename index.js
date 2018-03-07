@@ -33,4 +33,6 @@ return newestkittens
 
 }
 
+function removeFirstKitten(name){
 
+}
