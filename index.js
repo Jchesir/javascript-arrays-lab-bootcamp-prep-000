@@ -34,5 +34,5 @@ return newestkittens
 }
 
 function removeLastKitten(name){
-
+kittens.slice
 }
