@@ -16,5 +16,5 @@ return kittens
 }
 
 function destructivelyRemoveFirstKitten(name){
-
+kittens. 
 }
