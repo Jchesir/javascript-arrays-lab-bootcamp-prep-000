@@ -28,5 +28,7 @@ return newkittens
 }
 
 function prependKitten(name){
-var newestkittens = [name,...]
+var newestkittens = [name, ... kittens]
+return newestkittens
+
 }
