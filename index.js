@@ -6,4 +6,6 @@ return kittens
 }
 
 function destructivelyPrependKitten(name){
-kittens.unshift( )
+kittens.unshift(name)
+return kittens
+}
