@@ -33,7 +33,3 @@ return newestkittens
 
 }
 
-function removeFirstKitten(name){
-kittens.slice(1)
-return kittens
-}
