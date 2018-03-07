@@ -21,4 +21,6 @@ return kittens
 
 }
 
-function
+function appendKitten(name){
+
+}
